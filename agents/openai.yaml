@@ -1,0 +1,4 @@
+interface:
+  display_name: "智简魔方 V10 插件开发与商城上架"
+  short_description: "用一句话开始智简魔方 V10 插件设计、开发、排查、测试或商城打包"
+  default_prompt: "用 $v10-plugin-marketplace 帮我处理这个 V10 插件需求。"
